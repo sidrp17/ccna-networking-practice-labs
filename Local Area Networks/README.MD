@@ -5,8 +5,7 @@ The objective of this lab exercise is for you to learn and understand how to con
 
 Addressing table :
 
-| VLAN NO |  VLAN NAME | PORT          |
----------------------------------------
+| vlan no |  vlan name | port          |
 | 10      |  SALES     | fa0/2, fa0/3  |
 | 20      |  HR        | fa0/4, fa0/5  |
 
